@@ -9,7 +9,9 @@
 - 🏢 I am a Software Developer at Nila Apps
 - 🏫 2021 B.C.A. graduate from The New College Tamil Nadu (Chennai)
 - 🔭‍ Projects: Visit my [website](https://syedmhdm.simple.ink/)
-- 📃 Resume: (https://drive.google.com/file/d/1oC7TNxoTo11WfdkW5jAxcGyCnJbKdfW8/view?usp=sharing)
+- [📃Resume](https://drive.google.com/file/d/1oC7TNxoTo11WfdkW5jAxcGyCnJbKdfW8/view?usp=sharing)
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&vCenter=true&repeat=false&random=false&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
 
