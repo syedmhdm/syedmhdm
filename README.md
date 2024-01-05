@@ -9,9 +9,9 @@
 - 🏢 I am a Software Developer at Nila Apps
 - 🏫 2021 B.C.A. graduate from The New College Tamil Nadu (Chennai)
 - 🔭‍ Projects: Visit my [website](https://syedmhdm.simple.ink/)
-- [📃Resume](https://drive.google.com/file/d/1oC7TNxoTo11WfdkW5jAxcGyCnJbKdfW8/view?usp=sharing)
+- 📃 Resume: [Resume](https://drive.google.com/file/d/1oC7TNxoTo11WfdkW5jAxcGyCnJbKdfW8/view?usp=sharing)
 
-
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&vCenter=true&repeat=false&random=false&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
 
@@ -20,6 +20,9 @@
   <img align="centre" alt="Syed's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
+  <kbd>
+
+    test
 <!--
 **syedmhdm/syedmhdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
