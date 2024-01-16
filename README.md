@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&vCenter=true&repeat=false&random=false&width=435&lines=This+is+Syed)](https://git.io/typing-svg)
 
-#### Glad to see you here :heart:
-
-![](https://komarev.com/ghpvc/?username=syedmhdm&style=for-the-badge&label=VIEWS)
+<br>
+<br>
 
 - 🏢 I am a Software Developer at Nila Apps
 - 🏫 2021 B.C.A. graduate from The New College Tamil Nadu (Chennai)
@@ -14,6 +13,10 @@
 
 <br>
 <br>
+
+#### Glad to see you here :heart:
+
+![](https://komarev.com/ghpvc/?username=syedmhdm&style=for-the-badge&label=VIEWS)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&vCenter=true&repeat=false&random=false&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
 
