@@ -4,9 +4,10 @@
 
 <br>
 
+
+- 🏫 I am doing M.C.A from The University of Madras and I make projects
 - 🏢 I worked as a Software Developer at Nila Apps for 2 years
 - 🏫 2021 B.C.A. graduate from The New College Tamil Nadu (Chennai)
-- 🏫 Currently I am doing M.C.A from The University of Madras and I make projects
 - 🔭‍ Projects: Visit my [website](https://syedmhdm.simple.ink/)
 - 📃 Resume: [Resume](https://drive.google.com/file/d/1oC7TNxoTo11WfdkW5jAxcGyCnJbKdfW8/view?usp=sharing)
 
