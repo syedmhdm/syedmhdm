@@ -5,7 +5,7 @@
 <br>
 
 
-- 🏢 I worked as a Software Developer at Nila Apps for 2 years
+- 🏢 I am an immediate joiner with 2 years of experience Software Development (worked at NILA APPS)
 - 🏫 I have completed M.C.A from The University of Madras (distance education)
 - 🏫 2021 B.C.A. graduate from The New College Tamil Nadu (Chennai)
 - 🔭‍ Projects: Visit my [website](https://syedmhdm.simple.ink/)
