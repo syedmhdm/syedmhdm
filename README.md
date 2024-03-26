@@ -5,7 +5,7 @@
 <br>
 
 
-- 🏢 I am an immediate joiner with 2 years of experience Software Development (worked at NILA APPS)
+- 🏢 I am working at CloudBees as an Associate Software Engineer, and I worked at NILA APPS for 2 years as a Software Developer
 - 🏫 I have completed M.C.A from The University of Madras (distance education)
 - 🏫 2021 B.C.A. graduate from The New College Tamil Nadu (Chennai)
 - 🔭‍ Projects: Visit my [website](https://syedmhdm.simple.ink/)
